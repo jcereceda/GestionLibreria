@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63863e4574f9519db74cef4a"
+  },
+  "titulo": "Patria",
+  "isbn": "2",
+  "autor": "Fernando Aramburu",
+  "numPags": 500,
+  "precio": 25,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669742149437"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669742149437"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63863e6274f9519db74cef4d"
+  },
+  "titulo": "Wilt",
+  "isbn": "4",
+  "autor": "Tom Sharpe",
+  "numPags": 1041,
+  "precio": 30,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669742178178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669832004167"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63879e9c58160dd0de4cdcfb"
+  },
+  "titulo": "Rebelion en la granja",
+  "isbn": "23",
+  "autor": "George Orwell",
+  "numPags": 120,
+  "precio": 12,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669832348493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669832348493"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387a0a22f12de7c2fa48f12"
+  },
+  "titulo": "oliver twist",
+  "isbn": "1029384",
+  "autor": "Charles Dickens",
+  "numPags": 800,
+  "precio": 20,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669832866704"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669832866704"
+    }
+  },
+  "__v": 0
+}]
